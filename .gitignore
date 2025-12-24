@@ -1,0 +1,15 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Environments
+venv/
+.venv/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
